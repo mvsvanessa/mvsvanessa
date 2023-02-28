@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/mvsvanessa">
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvsvanessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvsvanessa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvsvanessa&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   
 ## Tools and technologies i use (or at least try to!)
