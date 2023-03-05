@@ -1,4 +1,4 @@
-# 👋 What's up? Be very very welcome to my Github profile.
+# 👋 What's up?! Be very very welcome to my Github profile.
 ## My name is <strong>vanessa</strong> but cool people call me nêssa (and cooler ones call me teacher!!) :D 
 
 <div align="center">
