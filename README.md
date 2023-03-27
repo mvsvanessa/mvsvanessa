@@ -7,7 +7,7 @@
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvsvanessa&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   
-## Tools, IDE's and technologies i use (or at least try to)!
+## Tools, IDE's and technologies i use (or at i least try to)!
 
  <div style="display: inline_block"><br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
