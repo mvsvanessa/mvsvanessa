@@ -1,5 +1,5 @@
 # Hi there! Be very welcome to my Github profile :)
-## My name is <strong>vanessa!</strong> -> cool people call me nêssa (and cooler ones call me teacher!!) :D 
+## My name is vanessa! cool people call me nêssa (and cooler ones call me teacher!!) :D 
 
 <div align="center">
   <img align="center" alt="Coding" width="500" src="https://giffiles.alphacoders.com/131/131004.gif">
