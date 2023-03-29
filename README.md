@@ -2,16 +2,11 @@
 ## My name is vanessa! cool people call me nêssa (and cooler ones call me teacher!!) :D 
 
 <p>
-<p>
 
-<div>
-  <img align="left" alt="Coding" width="500" src="https://giffiles.alphacoders.com/131/131004.gif">
-</div>
-<div>
-<img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/262/26202.gif">
+<div align="center">
+  <img align="center" alt="Coding" width="500" src="https://giffiles.alphacoders.com/131/131004.gif">
 </div>
 
-<p>
 <p>
 
 ## My Github Stats!
