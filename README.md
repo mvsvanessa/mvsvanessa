@@ -1,10 +1,16 @@
 # Hi there! Be very welcome to my Github profile :)
 ## My name is vanessa! cool people call me nêssa (and cooler ones call me teacher!!) :D 
 
-<div align="center">
-  <img align="center" alt="Coding" width="500" src="https://giffiles.alphacoders.com/131/131004.gif">
+<div>
+  <img align="left" alt="Coding" width="500" src="https://giffiles.alphacoders.com/131/131004.gif">
 </div>
+<div>
+<img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/262/26202.gif">
+</div>
+
 <p>
+
+## My Github Stats!
 
 <div align="center">
   <a href="https://github.com/mvsvanessa">
