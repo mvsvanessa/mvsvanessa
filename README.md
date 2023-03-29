@@ -2,6 +2,11 @@
 ## My name is <strong>vanessa!</strong> -> cool people call me nêssa (and cooler ones call me teacher!!) :D 
 
 <div align="center">
+  <img align="center" alt="Coding" width="500" src="https://giffiles.alphacoders.com/131/131004.gif">
+</div>
+<p>
+
+<div align="center">
   <a href="https://github.com/mvsvanessa">
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvsvanessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvsvanessa&layout=compact&langs_count=7&theme=dracula"/>
