@@ -4,8 +4,8 @@
 <p>
 
 <div align="center">
-  <img alt="SAO Mother's Rosario" width="500" src="https://giffiles.alphacoders.com/131/131004.gif">
-  <img alt="Your Name" width="500" src="https://giffiles.alphacoders.com/483/48361.gif">
+  <img alt="SAO Mother's Rosario" width="300" src="https://giffiles.alphacoders.com/131/131004.gif">
+  <img alt="Your Name" width="300" src="https://giffiles.alphacoders.com/483/48361.gif">
 </div>
 
 <p>
