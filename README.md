@@ -4,9 +4,9 @@
 <p>
 
 <div align="center">
-  <img alt="NGNL" width="300" src="https://giffiles.alphacoders.com/931/93150.gif">
-  <img alt="SAO Mother's Rosario" width="300" src="https://giffiles.alphacoders.com/131/131004.gif">
-  <img alt="Your Name" width="300" src="https://giffiles.alphacoders.com/483/48361.gif">
+  <img alt="NGNL" width="200" src="https://giffiles.alphacoders.com/931/93150.gif">
+  <img alt="SAO Mother's Rosario" width="200" src="https://giffiles.alphacoders.com/131/131004.gif">
+  <img alt="Your Name" width="200" src="https://giffiles.alphacoders.com/483/48361.gif">
   
 </div>
 
