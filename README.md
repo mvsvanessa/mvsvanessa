@@ -4,8 +4,10 @@
 <p>
 
 <div align="center">
+  <img alt="NGNL" width="300" src="https://giffiles.alphacoders.com/931/93150.gif">
   <img alt="SAO Mother's Rosario" width="300" src="https://giffiles.alphacoders.com/131/131004.gif">
   <img alt="Your Name" width="300" src="https://giffiles.alphacoders.com/483/48361.gif">
+  
 </div>
 
 <p>
@@ -14,8 +16,9 @@
 
 <div align="center">
   <a href="https://github.com/mvsvanessa">
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvsvanessa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvsvanessa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvsvanessa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvsvanessa&theme=material-palenight&hide_border=false" /></p>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvsvanessa&layout=compact&langs_count=7&theme=material-palenight"/>
   </div>
   
 ## Tools, IDE's and technologies i use (or at i least try to)!
