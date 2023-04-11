@@ -1,5 +1,5 @@
 # Hi there! Be very welcome to my Github profile :)
-## My name is vanessa! cool people call me nêssa (and cooler ones call me teacher!!) :D 
+## My name's vanessa! cool people call me nêssa (and cooler ones call me teacher!!) :D 
 
 <p>
 
