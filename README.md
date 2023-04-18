@@ -17,7 +17,6 @@
 <div align="center">
   <a href="https://github.com/mvsvanessa">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvsvanessa&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvsvanessa&theme=material-palenight&hide_border=false" /></p>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mvsvanessa&layout=compact&langs_count=7&theme=material-palenight"/>
   </div>
   
